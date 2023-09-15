@@ -159,9 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-trabalho_conclusao/data/OTTO/**
-trabalho_conclusao/data/transformed/**
-trabalho_conclusao/data/transformed_train_data/**
 
 # All .DS_store folders
 .DS_Store
@@ -176,10 +173,3 @@ trabalho_conclusao/data/transformed_train_data/**
 # ignore all model files
 **/*.model
 **/*.npy
-
-# ignore all csv files
-**/*.csv
-
-# ignore all data folders
-**/data/**
-**/data/**/**
