@@ -21,6 +21,18 @@ pip install -r requirements.txt
    2. Script de ETL desenvolvido durante a [primeira atividade](./notebooks/1_etl_aulas_2_e_3.ipynb) e utilizado em outras atividades: [etl script](./notebooks/etl/main.py)
    3. Infográfico utilizado na [atividade de visualização](./notebooks/4_visualizacao_aula_6.ipynb): [infografico](./visualizacao_aula_5_ifografico.png).
 
+### Organização das Atividades
+
+| Atividade | Notebook                                                               |
+| --------- | ---------------------------------------------------------------------- |
+| Aulas 2 e 3         | [1_etl_aulas_2_e_3.ipynb](./notebooks/1_etl_aulas_2_e_3.ipynb)         |
+| Aula 4         | [2_etl_aula_4.ipynb](./notebooks/2_etl_aula_4.ipynb)           |
+| Aula 5         | [3_analise_descritiva_aula_5.ipynb](./notebooks/3_analise_descritiva_aula_5.ipynb)           |
+| Aula 6         | [4_visualizacao_aula_6.ipynb](./notebooks/4_visualizacao_aula_6.ipynb) |
+| Aulas 7 e 8         | [5_modelos_de_aprendizado_aula_7_e_8.ipynb](./notebooks/5_modelos_de_aprendizado_aula_7_e_8.ipynb) |
+
+
+
 ## Técnicas não vistas em aula
 
 Para realizar algumas análises propostas pelas atividades utilizei adicionalmente duas técnicas que não foram vistas em aula, sendo elas:
