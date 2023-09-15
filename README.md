@@ -20,3 +20,18 @@ pip install -r requirements.txt
    1. Arquivos de Dados: [police dataset](./data/police.csv)
    2. Script de ETL desenvolvido durante a [primeira atividade](./notebooks/1_etl_aulas_2_e_3.ipynb) e utilizado em outras atividades: [etl script](./notebooks/etl/main.py)
    3. Infográfico utilizado na [atividade de visualização](./notebooks/4_visualizacao_aula_6.ipynb): [infografico](./visualizacao_aula_5_ifografico.png).
+
+## Técnicas não vistas em aula
+
+Para realizar algumas análises propostas pelas atividades utilizei adicionalmente duas técnicas que não foram vistas em aula, sendo elas:
+
+1. Mutual Information Score
+   - Utilizada na [atividade 1](./notebooks/1_etl_aulas_2_e_3.ipynb)
+   - Com a finalidade de encontra correlações não lineares
+   - [mutual information - artigo Kaggle](https://www.kaggle.com/code/ryanholbrook/mutual-information)
+2. Análise de Coeficientes de Regressão Linear
+   - Utilizada também na [atividade 1](./notebooks/1_etl_aulas_2_e_3.ipynb)
+   - Com a finalidade de entender os atributos mais relevantes que definem a predição do nível do resultado da parada.  
+3. Análise de Topologia da Árvore de Decisão
+   - Utilizada também na [atividade 1](./notebooks/1_etl_aulas_2_e_3.ipynb)
+   - Com a finalidade de entender os atributos mais relevantes que definem a predição se uma pessoa vai ser presa ou não.
